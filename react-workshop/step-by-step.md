@@ -28,8 +28,8 @@ First, open up a terminal, you can do this by using Spotlight, which is the magn
   When the terminal is open, write `cd ~/Documents` 
 
 </details>
+Now we want to clone the project using git. This can be done using the `git clone` command with a url to the git repository. In github this can be found by pressing the green `Code` button on [the repository page](https://github.com/netlight/oslo-tech-colledge/tree/main), and it should show the link in the popup box. We'll include it in the command here you simplify things.
 
-Now we want to clone the project using git. This can be done using the `git clone` command with a url to the git repository. In github this can be found by pressing the green `Code` button on the repository page, and it should show the link in the popup box. We'll include it in the command here you simplify things.
 
 Use the following command -
 
